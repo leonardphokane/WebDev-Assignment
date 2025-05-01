@@ -1,11 +1,11 @@
-# CIPHER WIZRADS GROUP ♖😎
+# WEB DEVELOPMENT GROUP PROJECT
 
 # Collaborators
-1️⃣James Mbitu - mbitumutonga@gmail.com
-2️⃣David Nganga – dngangajm@gmail.com
-3️⃣Catherine Abugah – catherine.abugah8@gmail.com
+1️⃣Escriva Tendwa - tendwaescriva4@gmail.com
+2️⃣
+3️⃣
 
-# Reverse Engineering Portfolio Website
+# UI Design Portfolio Website
 This project involves the reverse engineering of a portfolio website. The goal was to break down an existing website design and recreate its features using HTML, CSS, and JavaScript. We, as a team, worked together to recreate the structure, layout, and interactivity of the given design. Our final answers are in the **main branch**
 
 ## Project Overview
