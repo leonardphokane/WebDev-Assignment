@@ -2,7 +2,7 @@
 
 # Collaborators
 1️⃣Escriva Tendwa - tendwaescriva4@gmail.com
-2️⃣
+2️⃣Leonard Phokane - leonardphokane1@gmail.com
 3️⃣
 
 # UI Design Portfolio Website
